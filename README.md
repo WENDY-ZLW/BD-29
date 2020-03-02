@@ -6,4 +6,14 @@ Overview
 >>codes
 >>视频演示
 >>操作流程
->>Report(项目收获，问题解决etc.）
+>>Report( 项目收获，问题解决etc. )
+
+#项目流程
+* 运行mnist模型（使用tensorflow）
+* 得到模型准确率，保存模型代码
+* 下载并启用Dockor
+* 上传图片，对图片预处理
+* 得到预测结果
+* 连接Cassandra检查存储
+
+#详细步骤请参考视频！
